@@ -1,4 +1,4 @@
-# Nonprofit Operations Dashboard 2026
+# NZ Nonprofit Operations Dashboard 2026
 
 ## Mock Data Portfolio Project inspired by Dress for Success operational reporting
 
